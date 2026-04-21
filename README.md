@@ -1,4 +1,4 @@
-# ⚖️ Qanoun.ai — Chatbot Juridique Maroc
+# Qanoun.ai — Chatbot Juridique Maroc
 
 > Assistant juridique intelligent basé sur une architecture **RAG (Retrieval-Augmented Generation)**, dédié au droit marocain. Fournit des réponses précises et **sourcées** à partir de documents PDF de lois marocaines.
 
