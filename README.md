@@ -10,19 +10,19 @@
 
 ---
 
-## 🎯 Fonctionnalités
+## Fonctionnalités
 
-- 💬 **Chatbot RAG** : Réponses sourcées basées uniquement sur les documents indexés
-- 📄 **Upload dynamique** de PDFs (lois, codes, normes)
-- 🔍 **Sources citées** avec nom du fichier et numéro de page
-- 📥 **Export PDF** de la conversation (ReportLab)
-- 🧠 **LLM** : Llama 3 70B via Groq API (gratuit et rapide)
-- 📱 **Interface responsive** (PC, tablette, mobile)
-- 🗂️ **Historique** de conversation multi-tours
+- **Chatbot RAG** : Réponses sourcées basées uniquement sur les documents indexés
+- **Upload dynamique** de PDFs (lois, codes, normes)
+- **Sources citées** avec nom du fichier et numéro de page
+- **Export PDF** de la conversation (ReportLab)
+- **LLM** : Llama 3 70B via Groq API (gratuit et rapide)
+- **Interface responsive** (PC, tablette, mobile)
+- **Historique** de conversation multi-tours
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────────────────────────────────────────┐
@@ -47,7 +47,7 @@
 
 ---
 
-## 🚀 Lancer le projet
+## Lancer le projet
 
 ### Prérequis
 
@@ -83,7 +83,7 @@ L'application est disponible sur **http://localhost:5173**
 
 ---
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```
 chatbot-juridique-maroc/
@@ -115,7 +115,7 @@ chatbot-juridique-maroc/
 
 ---
 
-## 🔧 Stack Technique
+## Stack Technique
 
 | Couche     | Technologie                              |
 | ---------- | ---------------------------------------- |
@@ -128,7 +128,7 @@ chatbot-juridique-maroc/
 
 ---
 
-## 📖 Utilisation
+## Utilisation
 
 1. **Uploader** un PDF de loi marocaine via la sidebar
 2. **Poser** votre question dans le chat
@@ -136,7 +136,3 @@ chatbot-juridique-maroc/
 4. **Exporter** la conversation en PDF
 
 ---
-
-## 📝 License
-
-MIT — Projet réalisé dans le cadre d'un hachathon.
