@@ -2,12 +2,6 @@
 
 > Assistant juridique intelligent basé sur une architecture **RAG (Retrieval-Augmented Generation)**, dédié au droit marocain. Fournit des réponses précises et **sourcées** à partir de documents PDF de lois marocaines.
 
-![Tech Stack](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
 ---
 
 ## Fonctionnalités
