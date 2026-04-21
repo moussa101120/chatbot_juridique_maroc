@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# Data
+data/faiss_index/
+data/uploads/
+data/exports/
+*.pdf
+
+# IDE
+.vscode/
+.idea/
